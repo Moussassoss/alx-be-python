@@ -1,5 +1,3 @@
-# programming_paradigm/bank_account.py
-
 class BankAccount:
     def __init__(self, initial_balance=0.0):
         """Initialize the bank account with an optional initial balance."""
